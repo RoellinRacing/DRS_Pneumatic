@@ -46,4 +46,9 @@ The steps for installing and setting up the Arduino IDE are identical to those o
 
 4. **Upload Code**: Copy the provided code into the Arduino IDE. Click the Upload button to transfer the code to your Arduino Uno.
 
+### Additional Notes
+Safety: Ensure that all components are correctly connected, and power supply is adequate.
+Testing: Thoroughly test the system before implementing it in a vehicle.
+Calibration: Adjust the delay times in the code to suit your specific needs. The default values are starting points and may need adjustment.
+
 With this guide, you should be able to install and operate your pneumatic DRS system.
